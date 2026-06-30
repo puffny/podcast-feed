@@ -4,19 +4,19 @@
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Liang's Design Notes</title>
-    <link>https://cdn.jsdelivr.net/gh/puffny/podcast-feed</link>
+    <link>https://raw.githubusercontent.com/puffny/podcast-feed/main</link>
     <description>A personalized AI-generated podcast about Liang's design and web experiments.</description>
     <language>zh</language>
-    <atom:link href="https://cdn.jsdelivr.net/gh/puffny/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://raw.githubusercontent.com/puffny/podcast-feed/main/feed.xml" rel="self" type="application/rss+xml"/>
     
 
     <!-- Show artwork -->
     <image>
-      <url>https://cdn.jsdelivr.net/gh/puffny/podcast-feed/cover-art.png</url>
+      <url>https://raw.githubusercontent.com/puffny/podcast-feed/main/cover-art.png</url>
       <title>Liang's Design Notes</title>
-      <link>https://cdn.jsdelivr.net/gh/puffny/podcast-feed</link>
+      <link>https://raw.githubusercontent.com/puffny/podcast-feed/main</link>
     </image>
-    <itunes:image href="https://cdn.jsdelivr.net/gh/puffny/podcast-feed/cover-art.png"/>
+    <itunes:image href="https://raw.githubusercontent.com/puffny/podcast-feed/main/cover-art.png"/>
 
     <!-- Podcast player metadata -->
     <itunes:author>Liang's Design Notes</itunes:author>
@@ -30,10 +30,10 @@
       <title>肥肥撤离行动：开封到郑州的一家三口</title>
       <description>以搜打撤节奏为灵感的原创搞笑短篇故事：爸爸威龙、妈妈麦晓雯和儿子乌鲁鲁从开封开车到郑州吃肥肥，危机四伏又笑点密集。</description>
       <pubDate>Tue, 30 Jun 2026 05:26:26 GMT</pubDate>
-      <enclosure url="https://cdn.jsdelivr.net/gh/puffny/podcast-feed/episodes/2026-06-30-132353.mp3"
+      <enclosure url="https://raw.githubusercontent.com/puffny/podcast-feed/main/episodes/2026-06-30-132353.mp3"
                  length="8051609"
                  type="audio/mpeg"/>
-      <guid isPermaLink="false">https://cdn.jsdelivr.net/gh/puffny/podcast-feed/episodes/2026-06-30-132353.mp3</guid>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/puffny/podcast-feed/main/episodes/2026-06-30-132353.mp3</guid>
       <itunes:duration>8:23</itunes:duration>
       <itunes:summary>以搜打撤节奏为灵感的原创搞笑短篇故事：爸爸威龙、妈妈麦晓雯和儿子乌鲁鲁从开封开车到郑州吃肥肥，危机四伏又笑点密集。</itunes:summary>
     </item>
@@ -42,10 +42,10 @@
       <title>睡前故事：会收集月光的小邮差</title>
       <description>一个适合大人和小孩睡前听的原创温柔故事。小邮差米洛在夜晚收集月光、炉火、海浪声和晚安，把安静与温柔送到每一扇窗前。</description>
       <pubDate>Mon, 29 Jun 2026 16:30:22 GMT</pubDate>
-      <enclosure url="https://cdn.jsdelivr.net/gh/puffny/podcast-feed/episodes/2026-06-30-003004.mp3"
+      <enclosure url="https://raw.githubusercontent.com/puffny/podcast-feed/main/episodes/2026-06-30-003004.mp3"
                  length="9946218"
                  type="audio/mpeg"/>
-      <guid isPermaLink="false">https://cdn.jsdelivr.net/gh/puffny/podcast-feed/episodes/2026-06-30-003004.mp3</guid>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/puffny/podcast-feed/main/episodes/2026-06-30-003004.mp3</guid>
       <itunes:duration>10:21</itunes:duration>
       <itunes:summary>一个适合大人和小孩睡前听的原创温柔故事。小邮差米洛在夜晚收集月光、炉火、海浪声和晚安，把安静与温柔送到每一扇窗前。</itunes:summary>
     </item>
@@ -54,10 +54,10 @@
       <title>个人网站首页主要介绍了什么</title>
       <description>两位主持人从访客视角聊梁的个人网站首页：它主要介绍的不是技术，而是界面质感、视觉层次、产品表达和个人作品方向。</description>
       <pubDate>Mon, 29 Jun 2026 16:08:42 GMT</pubDate>
-      <enclosure url="https://cdn.jsdelivr.net/gh/puffny/podcast-feed/episodes/2026-06-30-000826.mp3"
+      <enclosure url="https://raw.githubusercontent.com/puffny/podcast-feed/main/episodes/2026-06-30-000826.mp3"
                  length="6758444"
                  type="audio/mpeg"/>
-      <guid isPermaLink="false">https://cdn.jsdelivr.net/gh/puffny/podcast-feed/episodes/2026-06-30-000826.mp3</guid>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/puffny/podcast-feed/main/episodes/2026-06-30-000826.mp3</guid>
       <itunes:duration>7:02</itunes:duration>
       <itunes:summary>两位主持人从访客视角聊梁的个人网站首页：它主要介绍的不是技术，而是界面质感、视觉层次、产品表达和个人作品方向。</itunes:summary>
     </item>
@@ -66,10 +66,10 @@
       <title>个人网站首页：渐进式玻璃模糊设计拆解</title>
       <description>两位主持人聊梁的个人网站首页，从渐进式背景模糊、玻璃拟态、交互控件到作品集表达。</description>
       <pubDate>Mon, 29 Jun 2026 15:46:53 GMT</pubDate>
-      <enclosure url="https://cdn.jsdelivr.net/gh/puffny/podcast-feed/episodes/2026-06-29-233736.mp3"
+      <enclosure url="https://raw.githubusercontent.com/puffny/podcast-feed/main/episodes/2026-06-29-233736.mp3"
                  length="6953213"
                  type="audio/mpeg"/>
-      <guid isPermaLink="false">https://cdn.jsdelivr.net/gh/puffny/podcast-feed/episodes/2026-06-29-233736.mp3</guid>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/puffny/podcast-feed/main/episodes/2026-06-29-233736.mp3</guid>
       <itunes:duration>7:14</itunes:duration>
       <itunes:summary>两位主持人聊梁的个人网站首页，从渐进式背景模糊、玻璃拟态、交互控件到作品集表达。</itunes:summary>
     </item>
