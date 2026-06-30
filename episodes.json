@@ -1,7 +1,16 @@
-﻿[
+[
   {
-    "title": "睡前故事：会收集月光的小邮差",
-    "description": "一个适合大人和小孩睡前听的原创温柔故事。小邮差米洛在夜晚收集月光、炉火、海浪声和晚安，把安静与温柔送到每一扇窗前。",
+    "title": "\u80a5\u80a5\u64a4\u79bb\u884c\u52a8\uff1a\u5f00\u5c01\u5230\u90d1\u5dde\u7684\u4e00\u5bb6\u4e09\u53e3",
+    "description": "\u4ee5\u641c\u6253\u64a4\u8282\u594f\u4e3a\u7075\u611f\u7684\u539f\u521b\u641e\u7b11\u77ed\u7bc7\u6545\u4e8b\uff1a\u7238\u7238\u5a01\u9f99\u3001\u5988\u5988\u9ea6\u6653\u96ef\u548c\u513f\u5b50\u4e4c\u9c81\u9c81\u4ece\u5f00\u5c01\u5f00\u8f66\u5230\u90d1\u5dde\u5403\u80a5\u80a5\uff0c\u5371\u673a\u56db\u4f0f\u53c8\u7b11\u70b9\u5bc6\u96c6\u3002",
+    "pub_date": "Tue, 30 Jun 2026 05:26:26 GMT",
+    "filename": "2026-06-30-132353.mp3",
+    "file_size": "8051609",
+    "duration": "8:23",
+    "guid": "https://cdn.jsdelivr.net/gh/puffny/podcast-feed/episodes/2026-06-30-132353.mp3"
+  },
+  {
+    "title": "\u7761\u524d\u6545\u4e8b\uff1a\u4f1a\u6536\u96c6\u6708\u5149\u7684\u5c0f\u90ae\u5dee",
+    "description": "\u4e00\u4e2a\u9002\u5408\u5927\u4eba\u548c\u5c0f\u5b69\u7761\u524d\u542c\u7684\u539f\u521b\u6e29\u67d4\u6545\u4e8b\u3002\u5c0f\u90ae\u5dee\u7c73\u6d1b\u5728\u591c\u665a\u6536\u96c6\u6708\u5149\u3001\u7089\u706b\u3001\u6d77\u6d6a\u58f0\u548c\u665a\u5b89\uff0c\u628a\u5b89\u9759\u4e0e\u6e29\u67d4\u9001\u5230\u6bcf\u4e00\u6247\u7a97\u524d\u3002",
     "pub_date": "Mon, 29 Jun 2026 16:30:22 GMT",
     "filename": "2026-06-30-003004.mp3",
     "file_size": "9946218",
@@ -9,8 +18,8 @@
     "guid": "https://cdn.jsdelivr.net/gh/puffny/podcast-feed/episodes/2026-06-30-003004.mp3"
   },
   {
-    "title": "个人网站首页主要介绍了什么",
-    "description": "两位主持人从访客视角聊梁的个人网站首页：它主要介绍的不是技术，而是界面质感、视觉层次、产品表达和个人作品方向。",
+    "title": "\u4e2a\u4eba\u7f51\u7ad9\u9996\u9875\u4e3b\u8981\u4ecb\u7ecd\u4e86\u4ec0\u4e48",
+    "description": "\u4e24\u4f4d\u4e3b\u6301\u4eba\u4ece\u8bbf\u5ba2\u89c6\u89d2\u804a\u6881\u7684\u4e2a\u4eba\u7f51\u7ad9\u9996\u9875\uff1a\u5b83\u4e3b\u8981\u4ecb\u7ecd\u7684\u4e0d\u662f\u6280\u672f\uff0c\u800c\u662f\u754c\u9762\u8d28\u611f\u3001\u89c6\u89c9\u5c42\u6b21\u3001\u4ea7\u54c1\u8868\u8fbe\u548c\u4e2a\u4eba\u4f5c\u54c1\u65b9\u5411\u3002",
     "pub_date": "Mon, 29 Jun 2026 16:08:42 GMT",
     "filename": "2026-06-30-000826.mp3",
     "file_size": "6758444",
@@ -18,8 +27,8 @@
     "guid": "https://cdn.jsdelivr.net/gh/puffny/podcast-feed/episodes/2026-06-30-000826.mp3"
   },
   {
-    "title": "个人网站首页：渐进式玻璃模糊设计拆解",
-    "description": "两位主持人聊梁的个人网站首页，从渐进式背景模糊、玻璃拟态、交互控件到作品集表达。",
+    "title": "\u4e2a\u4eba\u7f51\u7ad9\u9996\u9875\uff1a\u6e10\u8fdb\u5f0f\u73bb\u7483\u6a21\u7cca\u8bbe\u8ba1\u62c6\u89e3",
+    "description": "\u4e24\u4f4d\u4e3b\u6301\u4eba\u804a\u6881\u7684\u4e2a\u4eba\u7f51\u7ad9\u9996\u9875\uff0c\u4ece\u6e10\u8fdb\u5f0f\u80cc\u666f\u6a21\u7cca\u3001\u73bb\u7483\u62df\u6001\u3001\u4ea4\u4e92\u63a7\u4ef6\u5230\u4f5c\u54c1\u96c6\u8868\u8fbe\u3002",
     "pub_date": "Mon, 29 Jun 2026 15:46:53 GMT",
     "filename": "2026-06-29-233736.mp3",
     "file_size": "6953213",

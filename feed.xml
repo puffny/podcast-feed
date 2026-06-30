@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom">
@@ -25,6 +25,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    
+    <item>
+      <title>肥肥撤离行动：开封到郑州的一家三口</title>
+      <description>以搜打撤节奏为灵感的原创搞笑短篇故事：爸爸威龙、妈妈麦晓雯和儿子乌鲁鲁从开封开车到郑州吃肥肥，危机四伏又笑点密集。</description>
+      <pubDate>Tue, 30 Jun 2026 05:26:26 GMT</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/puffny/podcast-feed/episodes/2026-06-30-132353.mp3"
+                 length="8051609"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://cdn.jsdelivr.net/gh/puffny/podcast-feed/episodes/2026-06-30-132353.mp3</guid>
+      <itunes:duration>8:23</itunes:duration>
+      <itunes:summary>以搜打撤节奏为灵感的原创搞笑短篇故事：爸爸威龙、妈妈麦晓雯和儿子乌鲁鲁从开封开车到郑州吃肥肥，危机四伏又笑点密集。</itunes:summary>
+    </item>
     
     <item>
       <title>睡前故事：会收集月光的小邮差</title>
